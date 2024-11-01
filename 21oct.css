@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    border: 2px solid;
+    height:7000px;
+    width: 700px;
+}
+
+
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px;
+    color: YELLOW;
+    background-color: black;
+
+}
+ul li:hover{
+    color: aqua;
+    background-color: blueviolet;
+}
